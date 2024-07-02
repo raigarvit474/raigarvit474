@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Garvit Rai
-- 🎓 Currently in Second Year(B.Tech) from the department Of Computer Science and Technology in 
+- 🎓 Currently in Third Year(B.Tech) from the department Of Computer Science and Technology in 
       IIEST Shibpur
 - 👀 I’m interested in learning new Tech Stacks
 - 🌱 I’m currently learning MERN Stack
